@@ -129,3 +129,12 @@ A log of the prompts I typed into my vibe coder (Claude Code), one section per p
 > Problem 9: Results page. Build output/hw6_report.html. It must be one file that opens by double click with no internet and no other files next to it. Page must show five things below. Use your real numbers from earlier problems. The page must show five things below, using real numbers from earlier problems. 1) your catching results, with a chart. 2) attacks before and after defenses. 3) what your defenses cost in tokens and dollars. 4) your exam results and your two red team attacks. 5) a short recommendation to store manager: should campus customs turn this agent on for real vendor mail, and what would it cost per month at 1,000 documents a day? You will get more points for a designed page (fonts, color, layout) that reads well. Make sure it's in campus customs page format like what we did in previous homeworks.
 
 **Follow-up prompt:** None needed.
+
+---
+
+## Problem 10: Push to GitHub and Submit the URL
+
+**Prompt:**
+> Problem 10: Push to GitHub and submit the URL. Push this project to a public github repository and give me the repo URL so I can submit it. Graders will clone it so make sure it opens and files in the screenshot attached. Include the whole data/ folder (course data plus two attack files) so graders can clone repo and run agent right away. Do not commit your real .env and use .gitignore to keep it out, and include .env.example with placeholders only. Put a short note in README.md on how to run your agent.
+
+**Follow-up prompt:** None needed.
